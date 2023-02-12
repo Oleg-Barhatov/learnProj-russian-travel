@@ -1,0 +1,11 @@
+.place__container {
+    display: grid;
+    align-content: end;
+    gap: 12px;
+  }
+  
+  @media screen and (max-width: 767px) {
+    .place__container {
+      padding-left: 5%;
+    }
+  }
