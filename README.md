@@ -14,7 +14,7 @@
 
 **Проект доступен на GitHub Pages**
 
-_[Обычная ссылка с title](https://www.yandex.ru "Я тут!")_
+_[Путешествие по России](https://oleg-barhatov.github.io/russian-travel/ "Я тут!")_
 
 
 
