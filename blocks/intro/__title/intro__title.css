@@ -1,7 +1,8 @@
 .intro__title {
     margin: 0;
     padding-top: 92px;
-    font-family: "Inter-Black", sans-serif;
+    font-family: "Inter", sans-serif;
+    font-weight: 900;
     font-size: 3.375rem;
     line-height: 58px;
     color: #ffffff;

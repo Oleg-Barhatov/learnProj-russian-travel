@@ -3,7 +3,8 @@
     margin: 0;
     text-align: center;
     padding-top: 56px;
-    font-family: "Inter-Black", sans-serif;
+    font-family: "Inter", sans-serif;
+    font-weight: 900;
     font-size: 6rem;
     line-height: 100px;
     color: #ffffff;

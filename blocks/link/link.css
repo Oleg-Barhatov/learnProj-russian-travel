@@ -1,9 +1,4 @@
-.link {
-    transition: .5s;
-    opacity: 1;
-  }
-  
-  .link:hover {
+.link:hover {
     transition: .5s;
     opacity: 0.8;
   }

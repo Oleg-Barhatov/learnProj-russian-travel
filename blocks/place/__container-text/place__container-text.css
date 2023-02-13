@@ -7,5 +7,6 @@
   @media screen and (max-width: 767px) {
     .place__container-text {
       padding-left: 5%;
+      padding-right: 5%;
     }
   }
